@@ -1,3 +1,3 @@
 # hello-world
 
-- satya
+Author: Satyaji Behera
