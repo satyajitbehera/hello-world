@@ -1,2 +1,4 @@
 /* adding comments */
-function test(){}
+function test(){
+  console.log("Inside Test");
+}
